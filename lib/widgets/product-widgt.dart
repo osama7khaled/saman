@@ -33,6 +33,7 @@ class ProductWidget extends StatelessWidget {
             decoration: BoxDecoration(
               color: Colors.greenAccent,
 
+
               borderRadius: BorderRadius.only(
                 topRight: Radius.circular(
                   SizeConfig.scaleHeight(20),
